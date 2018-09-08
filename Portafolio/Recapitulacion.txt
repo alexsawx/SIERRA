@@ -1,0 +1,4 @@
+En la instalacion de Debian se instala el programa de VirtalBox en donde se creara una Maquina Virtual que emulara a una
+maquina fisica. Creamos la maquina virtual con todo los requerimientos necesarios (una maquina virtual no requiere de tantas
+especificaciones mas en el entorno de Linux) Descargamos la Iso de Debian 9 y ponemos la Iso dentro de la maquina virtual
+y la ejecutamos y empezaremos la instalacion con sus pasos requeridos. 
