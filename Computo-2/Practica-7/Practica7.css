@@ -3,3 +3,9 @@ background-color: purple;
 color: white;
 padding: 10px;
 }
+#encabezado {
+ background-color: purple;
+ color: white;
+ padding: 40px;
+ text-align: center;
+}
