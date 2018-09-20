@@ -1,0 +1,12 @@
+
+ -Rubro del sitio: Musical.
+
+ -Nombre del sitio: Instrumentos Musicales.
+       
+ -Nombre de dominio -> musicalinstruments.com
+
+ -Paleta de colores -> https://color.adobe.com/es/M%C5%AFj-motiv-Color-color-theme-11232460/
+
+ -Tipografía -> https://fonts.google.com/specimen/BenchNine
+
+ -Boceto de página de inicio: En carpeta.
