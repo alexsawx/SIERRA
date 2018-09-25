@@ -1,0 +1,8 @@
+.row > div{
+	padding: 10px;
+	background: #ddd;
+	border: 1px solid #fff;
+}
+.row {
+	margin: 40px auto;
+}
