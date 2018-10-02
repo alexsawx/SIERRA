@@ -1,0 +1,11 @@
+div{ 
+	  padding: 10px;
+	  background: #ddd;
+	  border: 1px solid #fff;
+	}
+div{
+	margin: 40px auto;
+} 
+
+/* no me agarraba el .row y no podia ver los cambios realizados asi que lo deje con solo el div nada mas para poder
+ ver los cambios que se hace en el css */
